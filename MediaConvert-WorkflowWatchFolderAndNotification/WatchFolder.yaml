@@ -8,7 +8,7 @@ Parameters:
   NotifcationEmail:
     Description: Email address for SNS notifications
     Type: String
-    Default: elementalrodeo@gmail.com
+    Default: ffebriansyah@vulcanca.com
     AllowedPattern: "^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$"
 
 Mappings:
